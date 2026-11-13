@@ -19,7 +19,7 @@
          ~~jajhMWWW###W#WWWMM&**+=~             . TikTok / Instagram: .... @benharveyai / IG @benharveyfit
          =oj*~kWWWWWWWWWM8M8Bk+=~~:             . Web.App: .............................. benharveyfit.com
           oh*=hBB8MWW###W8B$kaj~::              . Web.Portfolio: ......................... benharveyai.com
-           oa*oBMWW#####WMM8B&o=:-              . Web.Me: ............................ whoisbenharvey.com
+           oa*oBMWW#####WMM8B&o=:-              . Web.Site: .............................. benharveyai.com
            oa*oBMWW#####WMM8B&o=:-
             hho&MW#####WWW##WM$*=+-             - Stats ─────────────────────────────────────────────────
             hMBB#%@@@@@@@@@@@%Whoj~             . Repos: ........................................ 5 public
@@ -35,12 +35,9 @@
 
 ## Who is Ben Harvey?
 
-Ben Harvey is an American AI engineer. He played
-Division-I football at **South Carolina**, wearing No. 35 for the Gamecocks, then transferred to
-**Towson**, where he played defensive back and earned a **computer science degree**. He reached
-Silicon Valley through the nonprofit **Code2040**, worked as a **Staff Android Engineer at Meta**
-on Instagram from 2022 to 2025 — leading a 15M+ line Kotlin and Jetpack Compose migration and
-tech-leading Trial Reels — and now builds and ships production AI products on the Apple App Store.
+Ben Harvey is an American AI engineer. He studied computer science at **Towson**, spent
+2022–2025 as a **Senior Android Engineer at Meta** working on Instagram, and now builds and
+ships production AI products on the Apple App Store.
 
 Not to be confused with the American radio personality, the Australian radio presenter, the
 English rugby union coach, or the comic-book illustrator of the same name.
@@ -64,4 +61,4 @@ Live apps are on the [Benjamin Harvey developer page](https://apps.apple.com/us/
 > "My whole life I been underestimated. Every room I step in they underestimate me — so I
 > over-deliver every time."
 
-**[whoisbenharvey.com](https://whoisbenharvey.com)** · [benharveyfit.com](https://benharveyfit.com) · [benharveyai.com](https://benharveyai.com) · [LinkedIn](https://www.linkedin.com/in/benjaminharvey1) · [@benharveyai](https://www.tiktok.com/@benharveyai)
+**[benharveyai.com](https://benharveyai.com)** · [benharveyfit.com](https://benharveyfit.com) · [LinkedIn](https://www.linkedin.com/in/benjaminharvey1) · [@benharveyai](https://www.tiktok.com/@benharveyai)
